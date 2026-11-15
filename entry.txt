@@ -1,0 +1,1 @@
+Dip-Reversion BTC Bot — 4h Drop Mean Reversion with Volatility Filter
